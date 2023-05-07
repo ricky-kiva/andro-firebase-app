@@ -23,6 +23,7 @@
             android:layout_weight="1"
             android:textColor="@color/black"
             android:hint="Say something..."
+            android:textColorHint="@color/firebase_hint"
             android:inputType="text"
             android:minHeight="48dp"
             android:padding="10dp" />
