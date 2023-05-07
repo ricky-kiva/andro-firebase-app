@@ -21,7 +21,7 @@
             android:layout_gravity="center"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:background="@drawable/edit_text_shadow"
+            android:textColor="@color/black"
             android:hint="Say something..."
             android:inputType="text"
             android:minHeight="48dp"
